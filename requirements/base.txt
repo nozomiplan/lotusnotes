@@ -22,5 +22,5 @@ requests==2.19.1          # via nameko
 six==1.11.0               # via eventlet, mock, nameko
 urllib3==1.23             # via requests
 vine==1.1.4               # via amqp
-werkzeug==0.14.1          # via nameko
+werkzeug==0.15.3          # via nameko
 wrapt==1.10.11            # via nameko
